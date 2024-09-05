@@ -1,0 +1,4 @@
+sickit-learn
+pandas
+joblib
+streamlit
